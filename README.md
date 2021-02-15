@@ -17,7 +17,7 @@ In my pursuit of becoming a capitalist to transform our world, I create value fo
 - ✍️ Writing small books deconstructing abstract concepts for my future kids in a private library.
 - 📺 Live streams coding sessions on [YouTube](https://www.youtube.com/channel/UChFuTA2sq4yhXjet1JT3vcw) and [Twitch](https://www.twitch.tv/ashfame).
 - 🛠 Built [HTTPS Cop](https://alerts.httpscop.com) which monitors over 4300+ websites for issuing alerts for their SSL certificate expiration.
-- 🛠 Built [Redirecto](https://redirecto.ashfame.com) which scales to hundreds of millions of hits a month on a $5 server, serving 98% of the requests under 666ms.
+- 🛠 Built [Redirecto](https://redirecto.ashfame.com) which scales to hundreds of millions of hits a month on a $5 server, serving 98% of the requests in <666ms.
 - ✍️ Sometimes blog technical articles on [blog](https://blog.ashfame.com).
 
 ##### BIO
