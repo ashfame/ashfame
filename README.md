@@ -1,20 +1,29 @@
-### Hi there 👋
+### Hello World 👋
 
-#### I'm a Full Stack Engineer with over 14 years of experience.
-- Functional > Aesthetics
-- Reasoning > Assumption
-- Trust but verify!
+#### Senior Full Stack Engineer with 15+ years of experience.
 
-##### MOMENT OF TRUTH
-I am a red pilled guy who understands the food-chain of our world & fabric of the society.
+##### CORE VALUES
+- 🎯 Function Over Form
+- ⚖️ Reasoning Over Assumption
+- 🔍 Trust but verify!
+- 🧠 Data-Driven Decisions
+- 💡 Constant Learning
 
-In my pursuit of becoming a capitalist to transform our world, I create value for others to get paid to keep my lights on, while I build for the future.
+##### VISION
+🔴💊 Driven by a clear-eyed understanding of how the world works, I'm building towards positive transformation through value creation and strategic capital allocation.
 
 ##### BIO
+- 🏢 Currently working on [Data Liberation](https://github.com/WordPress/try-wordpress/) initiative in [Automattic](https://automattic.com/)
+- 🌍 Tech Stack: `Go`, `TypeScript`, `PHP`
+- 🚀 Bullish on Bitcoin and blockchain to unshackle our civilization.
 
-- 🏢 Currently working with [Matrix](https://matrix.org/) protocol in [Automattic](https://automattic.com/)
-- 🌍 These days, my choice of language is `Go`.
-- 🌱 Learning & nurturing **Bitcoin**
-- 💬 Got a burning question? Feel free to reach out on Twitter: [@ashfame](https://twitter.com/ashfame)
+##### CONNECT
+- 💬 Twitter/X: [@ashfame](https://x.com/ashfame)
 - 🧑‍💻 LinkedIn: [linkedin.com/in/ashfame](https://www.linkedin.com/in/ashfame)
-- ⚡️ Fun fact: I am competitive as hell. I ranked #298 in Asia (Season 2) in PUBG Mobile & earned a serious rep in PUBG PC.
+
+##### BEYOND CODE:
+
+`<Competitive Spirit>`
+
+- 🏆 Ranked #298 in Asia (PUBG Mobile Season 2) & dominated PUBG PC lobbies.
+- 🏍️ Street-tested a KTM Duke 390, lived to tell the tales.
