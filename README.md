@@ -13,8 +13,8 @@
 🔴💊 Driven by a clear-eyed understanding of how the world works, I'm building towards positive transformation through value creation and strategic capital allocation.
 
 ##### BIO
-- 🏢 Currently working on [Gutenberg Collaborative Editing exploration](https://github.com/ashfame/gutenberg-collaborative-editing) initiative in [Automattic](https://automattic.com/)
-- 🌍 Tech Stack: `Go`, `TypeScript`, `PHP`
+- 🏢 Currently working on [WordPress Playground](https://wordpress.org/playground/) ([Github](https://github.com/WordPress/WordPress-Playground/)) project in [Automattic](https://automattic.com/)
+- 🌍 Tech Stack: `AI`, `TypeScript`, `PHP`
 - 🚀 Bullish on Bitcoin and blockchain to unshackle our civilization.
 
 ##### CONNECT
