@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-#### Senior Full Stack Engineer with 16+ years of experience.
+#### Senior Full Stack Engineer with 17+ years of experience.
 
 ##### CORE VALUES
 - 🎯 Function Over Form
@@ -14,7 +14,7 @@
 
 ##### BIO
 - 🏢 Currently working on [WordPress Playground](https://wordpress.org/playground/) ([Github](https://github.com/WordPress/WordPress-Playground/)) project in [Automattic](https://automattic.com/)
-- 🌍 Tech Stack: `AI`, `TypeScript`, `PHP`
+- 🌍 Tech Stack: `AI`, `TypeScript`, `PHP`, `Go`
 - 🚀 Bullish on Bitcoin and blockchain to unshackle our civilization.
 
 ##### CONNECT
